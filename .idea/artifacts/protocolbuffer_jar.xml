@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="protocolbuffer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/protocolbuffer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="protocolbuffer.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="protocolbuffer" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.5.0" />
+      <element id="library" level="project" name="Maven: org.swinglabs.swingx:swingx-core:1.6.6-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.trypticon.hex:hex-util:0.8.0" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Maven: com.ibm.icu:icu4j-charsets:59.1" />
+      <element id="library" level="project" name="Maven: org.swinglabs.swingx:swingx-painters:1.6.6-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.swinglabs.swingx:swingx-common:1.6.6-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.swinglabs.swingx:swingx-plaf:1.6.6-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.swinglabs.swingx:swingx-action:1.6.6-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: com.ibm.icu:icu4j:59.1" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/jpcap.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.sampleCatch.Test
+Class-Path: protobuf-java-2.5.0.jar hex-util-0.8.0.jar jsr305-3.0.2.jar 
+ icu4j-59.1.jar jpcap.jar
+
